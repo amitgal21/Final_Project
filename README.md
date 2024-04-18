@@ -13,7 +13,16 @@ The various histograms we present demonstrate the qualities of the dataset we us
 ![image](https://github.com/amitgal21/Final_Project-Prediction-Segmentation/assets/101315285/48863288-8dba-4464-9aa4-0050fe8ef7de) 
 
 **In the histogram before us, it is clear that the common contrast values are up to 20, indicating images with similar brightness among the different bacteria. There is a noticeable decrease in frequency as the contrast values increase, suggesting fewer images with high contrast, indicative of Gram-negative bacteria. This helps us more efficiently evaluate the Gram category of the bacteria. Indeed, it can be concluded that Gram-positive bacteria will have lower contrast than Gram-negative bacteria**
+
 ![image](https://github.com/amitgal21/Final_Project-Prediction-Segmentation/assets/101315285/c8fb2239-0d72-4c39-92a2-36480d5c03c2)
+
+**The histogram provided illustrates the distribution of texture correlation in images. Correlation is a statistical measure describing the relationship and mutual dependence between two variables. In the context of image texture, a high correlation value indicates a strong relationship between adjacent pixels, suggesting a uniform and consistent texture.
+ The correlation values in the samples range from 0.92 to 1.00. There is very little frequency at lower correlation values, and a significant increase in frequency as the correlation approaches 1.00. The peak frequency is near the value of 1.00, indicating a very uniform texture in most of the images examined.**
+
+![image](https://github.com/amitgal21/Final_Project-Prediction-Segmentation/assets/101315285/19ba90f5-553b-4d0d-9dc6-6aba35db8295)
+
+
+
 
 
 
