@@ -47,6 +47,59 @@ This project is designed to serve as a foundation for future developments and to
 
 #### Technologies and Dependencies
 * Python 3.9.0
+* absl-py                      2.1.0
+* astunparse                   1.6.3
+* certifi                      2024.2.2
+* charset-normalizer           3.3.2
+* contourpy                    1.2.0
+* cycler                       0.12.1
+* flatbuffers                  24.3.7
+* fonttools                    4.50.0
+* gast                         0.5.4
+* google-pasta                 0.2.0
+* grpcio                       1.62.1
+* h5py                         3.10.0
+* idna                         3.6
+* importlib_metadata           7.0.2
+* importlib_resources          6.4.0
+* keras                        3.1.1
+* kiwisolver                   1.4.5
+* libclang                     18.1.1
+* Markdown                     3.6
+* markdown-it-py               3.0.0
+* MarkupSafe                   2.1.5
+* matplotlib                   3.8.3
+* mdurl                        0.1.2
+* ml-dtypes                    0.3.2
+* namex                        0.0.7
+* numpy                        1.26.4
+* opt-einsum                   3.3.0
+* optree                       0.10.0
+* zipp                         3.18.1
+* google colab
+
+##### Installation
+
+Go to Book Project Part B - 8 - Installation Guide
+
+###### The Project's Book
+
+The attached book details the basic theories and methodologies used in the prediction project and segmentation actions on pathogens, with an emphasis on using CNNs that perform well with images, allowing us to assess quality features critical to industry experts. The book serves as a comprehensive guide, offering insight into the challenges we faced, providing comprehensive theoretical material on medical methods for identifying bacteria upon which we rely. Additionally, it enriches readers' understanding with advanced machine learning applications in the completeness of academic research.
+
+####### Contributors
+Amit Shitrit
+Cyrine Salame
+
+Special thanks to **Dr.Zeev Frenkel** for guidance and support.
+
+######## License
+
+
+
+  
+
+
+
 
 
 
