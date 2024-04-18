@@ -23,6 +23,7 @@ The various histograms we present demonstrate the qualities of the dataset we us
 
 
 ### Motivation 
+Quality classification and segmentation operations on bacteria are essential in the field of **microbiology**, the **pharmaceutical industry** , and **disease identification**. The use of advanced machine learning techniques ensures improvement and progress in these areas
 
 
 
