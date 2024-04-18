@@ -23,7 +23,34 @@ The various histograms we present demonstrate the qualities of the dataset we us
 
 
 ### Motivation 
-Quality classification and segmentation operations on bacteria are essential in the field of **microbiology**, the **pharmaceutical industry** , and **disease identification**. The use of advanced machine learning techniques ensures improvement and progress in these areas
+Quality classification and segmentation operations on bacteria are essential in the field of **microbiology**, the **pharmaceutical industry** , and **disease identification**. The use of advanced machine learning techniques ensures improvement and progress in these areas.
+
+
+### Methodology
+
+Our project focuses on developing advanced deep learning architectures for segmentation and prediction tasks in medical imaging. We are utilizing UNet for segmentation and AlexNet for prediction, with the VGG16 model enhancing our algorithms’ learning capabilities.
+
+**Step 1: Data Preparation**
+Data Collection: We will collect medical images from open and verified databases.
+Image Processing: Initial processing will standardize the image size and enhance contrast.
+**Step 2: Model Development**
+UNet Development: We will construct a UNet model for segmenting relevant features in the images.
+AlexNet Development: We will use AlexNet to predict specific medical conditions or features.
+Model Training: The models will be trained on training data, using VGG16 as a pretrained model to refine features.
+**Step 3: Testing and Evaluation**
+Validation: We will evaluate the models' performance on validation and test data.
+Tuning: Parameters will be tuned to improve performance based on outcomes.
+**Step 4: Publishing and Sharing**
+Documentation: Detailed documentation will be written for future use and community benefit.
+Sharing: The code and findings will be shared on GitHub to foster collaborative contributions.
+This project is designed to serve as a foundation for future developments and to make a tangible impact on the medical and research community.
+
+#### Technologies and Dependencies
+* Python 3.9.0
+
+
+
+
 
 
 
