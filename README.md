@@ -22,6 +22,9 @@ The various histograms we present demonstrate the qualities of the dataset we us
  ![image](https://github.com/amitgal21/Final_Project-Prediction-Segmentation/assets/101315285/127e55da-0a24-4aec-8fc8-29a019c15d77)
 
 
+### Motivation 
+
+
 
 
 
