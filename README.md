@@ -22,11 +22,11 @@ The various histograms we present demonstrate the qualities of the dataset we us
  ![image](https://github.com/amitgal21/Final_Project-Prediction-Segmentation/assets/101315285/127e55da-0a24-4aec-8fc8-29a019c15d77)
 
 
-### Motivation 
+## Motivation 
 Quality classification and segmentation operations on bacteria are essential in the field of **microbiology**, the **pharmaceutical industry** , and **disease identification**. The use of advanced machine learning techniques ensures improvement and progress in these areas.
 
 
-### Methodology
+## Methodology
 
 Our project focuses on developing advanced deep learning architectures for segmentation and prediction tasks in medical imaging. We are utilizing UNet for segmentation and AlexNet for prediction, with the VGG16 model enhancing our algorithms’ learning capabilities.
 
@@ -45,7 +45,7 @@ Documentation: Detailed documentation will be written for future use and communi
 Sharing: The code and findings will be shared on GitHub to foster collaborative contributions.
 This project is designed to serve as a foundation for future developments and to make a tangible impact on the medical and research community.
 
-#### Technologies and Dependencies
+## Technologies and Dependencies
 * Python 3.9.0
 * absl-py                      2.1.0
 * astunparse                   1.6.3
@@ -78,22 +78,22 @@ This project is designed to serve as a foundation for future developments and to
 * zipp                         3.18.1
 * google colab
 
-##### Installation
+## Installation
 
 Go to Book Project Part B - 8 - Installation Guide
 
-###### The Project's Book
+## The Project's Book
 
 The attached book details the basic theories and methodologies used in the prediction project and segmentation actions on pathogens, with an emphasis on using CNNs that perform well with images, allowing us to assess quality features critical to industry experts. The book serves as a comprehensive guide, offering insight into the challenges we faced, providing comprehensive theoretical material on medical methods for identifying bacteria upon which we rely. Additionally, it enriches readers' understanding with advanced machine learning applications in the completeness of academic research.
 
-####### Contributors
+## Contributors
 
 Amit Shitrit
 Cyrine Salame
 
 Special thanks to **Dr.Zeev Frenkel** for guidance and support.
 
-######## License
+## License
 
 This project is licensed under the terms of the [MIT License](LICENSE).
 
