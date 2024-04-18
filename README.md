@@ -19,7 +19,12 @@ The various histograms we present demonstrate the qualities of the dataset we us
 **The histogram provided illustrates the distribution of texture correlation in images. Correlation is a statistical measure describing the relationship and mutual dependence between two variables. In the context of image texture, a high correlation value indicates a strong relationship between adjacent pixels, suggesting a uniform and consistent texture.
  The correlation values in the samples range from 0.92 to 1.00. There is very little frequency at lower correlation values, and a significant increase in frequency as the correlation approaches 1.00. The peak frequency is near the value of 1.00, indicating a very uniform texture in most of the images examined.**
 
-![image](https://github.com/amitgal21/Final_Project-Prediction-Segmentation/assets/101315285/19ba90f5-553b-4d0d-9dc6-6aba35db8295)
+ ![image](https://github.com/amitgal21/Final_Project-Prediction-Segmentation/assets/101315285/127e55da-0a24-4aec-8fc8-29a019c15d77)
+
+
+
+
+
 
 
 
