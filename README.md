@@ -95,7 +95,7 @@ Special thanks to **Dr.Zeev Frenkel** for guidance and support.
 
 ######## License
 
-This project is open-sourced under the MIT License. For more details, see the  file.
+This project is licensed under the terms of the [MIT License](LICENSE).
 
 
 
