@@ -87,12 +87,15 @@ Go to Book Project Part B - 8 - Installation Guide
 The attached book details the basic theories and methodologies used in the prediction project and segmentation actions on pathogens, with an emphasis on using CNNs that perform well with images, allowing us to assess quality features critical to industry experts. The book serves as a comprehensive guide, offering insight into the challenges we faced, providing comprehensive theoretical material on medical methods for identifying bacteria upon which we rely. Additionally, it enriches readers' understanding with advanced machine learning applications in the completeness of academic research.
 
 ####### Contributors
+
 Amit Shitrit
 Cyrine Salame
 
 Special thanks to **Dr.Zeev Frenkel** for guidance and support.
 
 ######## License
+
+This project is open-sourced under the MIT License. For more details, see the  file.
 
 
 
