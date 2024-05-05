@@ -85,7 +85,9 @@ Go to Book Project Part B - 8 - Installation Guide
 ## The Project's Book
 
 The attached book details the basic theories and methodologies used in the prediction project and segmentation actions on pathogens, with an emphasis on using CNNs that perform well with images, allowing us to assess quality features critical to industry experts. The book serves as a comprehensive guide, offering insight into the challenges we faced, providing comprehensive theoretical material on medical methods for identifying bacteria upon which we rely. Additionally, it enriches readers' understanding with advanced machine learning applications in the completeness of academic research.
-
+## Video Explanation
+The video file is over 25MB, so it cannot be uploaded to Git. Attached is a link to download the explanation video.
+https://fastupload.io/5nex
 ## Contributors
 
 Amit Shitrit
